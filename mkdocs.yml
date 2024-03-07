@@ -1,4 +1,4 @@
-site_name: template_workshop
+site_name: tmplt
 nav:
   - Home: index.md
 
@@ -8,7 +8,7 @@ theme:
 plugins:
   - search
   - mkdocstrings:
-      project_name: template_workshop
+      project_name: tmplt
       handlers:
         python:
           options:
